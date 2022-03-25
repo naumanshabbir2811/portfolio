@@ -65,7 +65,7 @@ p{
   padding: 10px 0px;
 }
 .sweet{
-  color: #F9004D;
+  color: #f9f500;
 }
 .row{
   display: flex;
@@ -106,7 +106,7 @@ svg {
   position: absolute;
 }
 strong{
-  color: #F9004D;
+  color:#eff312;
   font-weight: 600;
 }
 input{
@@ -116,9 +116,9 @@ button.btn {
   font-size: 18px;
   font-weight: 500;
   border-radius: 5px;
-  border: 2px solid #f9004d;
-  background-color: #f9004d;
-  color: #fff!important;
+  border: 2px solid #daac16 !important;
+  background-color: #e1e42a !important;
+  color: #000 !important;
   text-transform: uppercase;
   letter-spacing: 2px;
   transition: .4s all ease;

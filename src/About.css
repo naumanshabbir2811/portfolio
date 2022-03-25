@@ -1,9 +1,9 @@
-.about{
-    background: #191919;
+.about {
+    background: #1c1b1b;
 }
 img.about__img{
     border-radius: 10px;
-    width: 100%;
+    width: 75%;
 }
 h1.about__heading{
     margin-bottom: 10px;
@@ -28,7 +28,7 @@ a.bottom__to__top{
     position: fixed;
     bottom: 3%;
     right: 2%;
-    background-color: #F9004D;
+    background-color: #d1d410 !important;
     border-radius: 50%;
     cursor: pointer;
     display: none;

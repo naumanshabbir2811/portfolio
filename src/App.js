@@ -15,7 +15,7 @@ function App() {
        <Service />
        <Project />
        <Blog />
-       <Contact />
+       <Contact email="naumanshabbir19@gmail.com" number="03244127008"/>
        <Footer />
     </div>
   );

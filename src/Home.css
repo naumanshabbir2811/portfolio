@@ -1,5 +1,5 @@
 .home__bg{
-    background-image: url(C:/Users/SHAJIB/Pictures/portfolio/src/img/bg.jpg);
+    background-image: url('./img/home1.jpg');
     background-color: #010101;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -14,9 +14,9 @@ li.nav__items{
 }
 h1.home__text{
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 600;
     letter-spacing: 3px;
-    color: rgba(198,201,216,.75)!important;
+    color: rgba(244, 244, 248, 0.75)!important;
 }
 h2.home__text{
     font-size: 54px;
@@ -97,4 +97,7 @@ h1.home__text {
 h4.home__text {
     font-size: 45px;
 }
+}
+li:hover{
+    color: #eff312;
 }

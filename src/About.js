@@ -34,10 +34,10 @@ function About() {
                 but the majority have suffered in some form, by injected humour,
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="#">
+                <a href="/">
                   <button className="about btn pointer">Download Cv</button>
                 </a>
-                <a href="#">
+                <a href="/">
                   <button className="about btn pointer">Hire Me</button>
                 </a>
               </div>
@@ -47,7 +47,7 @@ function About() {
       </div>
       {/* UP TO TOP BTN */}
       <div className="up__to__top__btn">
-        <a href="#" className="bottom__to__top">
+        <a href="/" className="bottom__to__top">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"
