@@ -101,7 +101,7 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Marketing & Reporting</h1>
+                <h1 className="service__text">Application Deployment</h1>
                 <p className="p service__text p__color">
                   I throw myself down among the
                 </p>
